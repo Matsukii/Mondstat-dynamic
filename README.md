@@ -38,7 +38,7 @@ An hour in the game takes 1 minute In Real Life (1h = 60s IRL)
 * Skin .ini file and how it works based on [this reddit question](https://www.reddit.com/r/Rainmeter/comments/3a8azt/is_there_a_way_to_change_background_based_on_time/
 ) 
 
-* Screenshots of Mihoyo's [Genshim Impact game](https://genshin.mihoyo.com/en/home), at Mondstat during Windbloom festival
+* Screenshots of Mihoyo's [Genshim Impact game](https://genshin.mihoyo.com/en/home), at Mondstat during Windblume festival
 
 
 ## LICENSE: MIT
